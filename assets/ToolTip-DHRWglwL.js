@@ -1,0 +1,1 @@
+import{r,j as s}from"./index-BI4t6MCj.js";function p({children:t,text:e}){const[o,a]=r.useState(!1);return s.jsxs("span",{className:"tooltip-wrapper",onClick:()=>a(i=>!i),children:[t,o&&s.jsx("span",{className:"tooltip-box",children:e})]})}export{p as T};
